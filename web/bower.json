@@ -1,0 +1,16 @@
+{
+  "name": "test-connect-web",
+  "version": "0.0.0",
+  "authors": [],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "anvil-connect": "https://github.com/anvilresearch/connect-js.git#~0.1.4"
+  }
+}
